@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratory-01</string>
+    <string name="welcome_string">Welcome to</string>
+    <string name="welcome_2_string">Mobile App Programming</string>
+</resources>
